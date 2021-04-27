@@ -3,7 +3,7 @@
 
 - 🌱 Estou no momento estudando PHP avançado.
 
-- 👨‍💻 Meus projetos podem ser encontrados aqui [https://lad566.com.br](https://lad566.com.br)
+- 👨‍💻 Meus projetos podem ser encontrados aqui neste <a href="https://lad566.com.br" target="_blank">Portfólio </a>
 
 - 💬 Já tenho um grande conhecimento sobre PHP, mas conhecimento nunca é demais.
 
