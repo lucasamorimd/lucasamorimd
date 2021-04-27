@@ -3,11 +3,11 @@
 
 - 🌱 Estou no momento estudando PHP avançado.
 
-- 👨‍💻 Meus projetos podem ser encontrados aqui (https://lad566.com.br)
+- 👨‍💻 Meus projetos podem ser encontrados aqui [https://lad566.com.br](https://lad566.com.br)
 
 - 💬 Já tenho um grande conhecimento sobre PHP, mas conhecimento nunca é demais.
 
-- 📫 Estou a procura de uma oportunidade de emprego, então qualquer coisa manda um email lá. **lucasamorim46@gmail.com**
+- 📫 Estou a procura de uma oportunidade de emprego, então qualquer coisa entre em contato! Agradeço desde já.
 
 <h3 align="left">Entre em contato</h3>
 
