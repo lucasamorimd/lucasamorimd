@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lucasamorimduarte/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasamorimduarte" /></a>
-  <a href="https://instagram.com/lucaasamoorim" target="_blank"><img align="center" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucaasamoorim" /></a>
+  <a href="https://instagram.com/lucaasamoorim" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucaasamoorim" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas que tenho algum domínio:</h3>
