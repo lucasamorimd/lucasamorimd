@@ -9,9 +9,9 @@
 
 - 📫 Estou a procura de uma oportunidade de emprego, então qualquer coisa entre em contato! Agradeço desde já.
 
-<h3 align="left">Entre em contato</h3>
+<h3 align="center">Entre em contato</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/lucasamorimduarte/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasamorimduarte" /></a>
   <a href="https://instagram.com/lucaasamoorim" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucaasamoorim" /></a>
 </p>
