@@ -7,7 +7,7 @@
 
 - 💬 Já tenho um grande conhecimento sobre PHP, mas conhecimento nunca é demais.
 
-- 📫 Estou a procura de uma oportunidade de emprego, então qualquer coisa entre em contato! Agradeço desde já.
+- 📫 Estou a procura de uma oportunidade para mostrar meus conhecimentos e trazer bons resultados.
 
 <h3 align="center">Entre em contato</h3>
 
