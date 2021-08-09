@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Lucas</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-- 🌱 Studying PHP advanced.
+- 🌱 a PHP lover.
 
 - 👨‍💻 I Have a few projects <a href="https://lad566.com.br" target="_blank">HERE</a>
 
