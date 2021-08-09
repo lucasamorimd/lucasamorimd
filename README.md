@@ -7,7 +7,7 @@
 
 - 💬 I learned a lot about PHP, but I keep constantly searching for knowledge about this and other technologies.
 
-- 📫 I'm looking for challenges where I can show my skills.
+- 📫 I'm looking for challenges where I can improve my skills.
 
 <h3 align="center">You can also find me there</h3>
 
