@@ -5,7 +5,7 @@
 
 - 👨‍💻 I Have a few projects <a href="https://lad566.com.br" target="_blank">HERE</a>
 
-- 💬 I learned a lot about PHP, but I keep constantly searching for knowledge about this and other technologies.
+- 💬 I've learned a lot about PHP, but I keep constantly searching for knowledge about this and other technologies.
 
 - 📫 I'm looking for challenges where I can improve my skills.
 
