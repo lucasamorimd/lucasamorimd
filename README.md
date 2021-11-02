@@ -3,8 +3,6 @@
 
 - :elephant: PHP lover.
 
-- 👨‍💻 I Have a few projects <a href="https://lad566.com.br" target="_blank">HERE</a>
-
 - 💬 I've learned a lot about PHP, but I keep constantly searching for knowledge about other technologies too.
 
 - 📫 I'm looking for challenges where I can improve my skills.
