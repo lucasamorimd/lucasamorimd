@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Lucas</h1>
+<h1 align="center">Hey there! my name is Lucas</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
 - :elephant: PHP lover.
