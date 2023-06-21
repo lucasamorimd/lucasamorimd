@@ -3,9 +3,9 @@
 
 - :elephant: PHP lover.
 
-- 💬 I've learned a lot about PHP, but I keep constantly searching for knowledge about other technologies too.
+- 💬 I've learned a lot about PHP, but I also keep constantly searching for knowledge about other technologies.
 
-- 📫 I'm looking for challenges where I can improve my skills.
+- 📫 I'm always looking for challenges where I can improve my skills.
 
 <h3 align="center">You can also find me there</h3>
 
